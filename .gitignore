@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+HotelBooking.Api/hotel.db
+HotelBooking.Api/hotel.db-shm
+HotelBooking.Api/hotel.db-wal
