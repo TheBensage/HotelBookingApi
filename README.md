@@ -61,3 +61,5 @@ Features
 3. Open Swagger UI to explore endpoints:
 
 `https://localhost:7149/swagger/index.html`
+
+Alternatively, open the solution file, and run the API project in Visual Studio
